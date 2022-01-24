@@ -111,7 +111,11 @@ cursor: pointer;
 		font-size: 15px;
 		height: 35px;
 		text-align: center;
+		
         
+}
+.result h2{
+	color:black
 }
 
 .img {
