@@ -18,7 +18,7 @@ Here is the folder structure,
 Technology used:
 1. Python
 2. Numpy for data cleaning
-3. Scikit-Learn for data visualization
+3. Scikit-Learn for model training
 4. Matplotlib & Seaborn for data visualization
 5. Jupyter Notebook, visual studio code and PyCharm as IDE
 6. Flask for http server
